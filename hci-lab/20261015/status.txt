@@ -1,2 +1,2 @@
-title=Git lab from main
+title=Git lab main and feature integrated
 state=ready
