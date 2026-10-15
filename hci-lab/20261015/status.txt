@@ -1,2 +1,2 @@
-title=Git lab
+title=Git lab from feature
 state=ready
