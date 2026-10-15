@@ -1,0 +1,1 @@
+This file remains in the working tree after a path-scoped reset.
